@@ -11,6 +11,7 @@ Inspired by [this comment](https://news.ycombinator.com/item?id=14953648) on HN.
 ## Blockchain
 - [Naivechain](https://github.com/lhartikk/naivechain) a blockchain in 200 lines of code. `Apache` `Javascript`
 - [Tinychain](https://github.com/jamesob/tinychain) a pocket-sized implementation of Bitcoin. `MIT` `Python`
+- [TinyOracle](https://github.com/axic/tinyoracle) a simple data provider toolkit for Euthereum.`Node` `Solidity`
 
 ## Neural network
 - [Mind](https://github.com/stevenmiller888/mind) a neural network library built in JavaScript. `MIT` `Javascript`
